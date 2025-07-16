@@ -59,7 +59,7 @@ Due to GitHub's 100MB file size limit, trained model files are hosted externally
 
 ## 📱 Screenshots
 
-![splash Screen](assets/screenShots/splash.png)
+
 
 ### 🧑‍🌾 User/Admin Interface
 
